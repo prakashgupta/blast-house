@@ -1,0 +1,1 @@
+A novice project to create a multi-player 2D action side-scroller in the vein of Bad Dudes, Golden Axe, or Streets of Rage while implementing developmental aspects such as saveable character investment and itemization.
